@@ -22,7 +22,7 @@ Este proyecto es una web conmemorativa dedicada a Bruno, maquetada a partir del 
 ├── js/
 │   └── main.js       # Interacciones, filtros y contadores
 └── img/
-    └── ...           # Fotografías de Bruno
+    └── ...           # Fotografías de Bruno e imágenes del proyecto
 ```
 
 ## Mapa de páginas y navegación
